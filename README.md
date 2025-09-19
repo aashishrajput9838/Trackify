@@ -33,12 +33,12 @@ The project is Transpotracker - an intelligent public transport and travel optim
 - ML: Python scikit-learn + TensorFlow
 - Real-time: WebSocket + Socket.io
 # Team Structure:
-- Aashish Rajput (Team Lead): Backend architecture, database design
-- Ananay Srivastava (Data Science): ML algorithms, data analysis
-- Kushagra (Frontend Lead): UI/UX design, mobile app development
-- Shivansh (Full-Stack): Frontend development, API integration
-- Avdesh Kumar (Generalist): Problem-solving, code optimization
-- Sarla (Non-Technical): Presentation, documentation, communication
+- Aashish Rajput (Team Lead): Backend Architecture, Database, Integration
+- Ananay Srivastava (Data Science): ML Algorithms, Backend 
+- Kushagra (Frontend Lead): UI/UX design, Frontend Development
+- Shivansh (Full-Stack): Bug Fixing, Development
+- Avdesh Kumar (Testing): Bug Fixing
+- Sarla (Researcher): Documentation, Product Research
 # Current Status: 
 Planning Phase Complete, Implementation Phase Ready.
 Your project is in the planning and documentation phase with excellent preparation work done. The next step would be to start implementing the actual code based on your well-thought-out architecture and team distribution.
