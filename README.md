@@ -28,9 +28,9 @@ The project is Transpotracker - an intelligent public transport and travel optim
 - Data-driven insights for urban planning
 # Technology Stack (Planned):
 - Frontend: React.js + Google Maps API
-- Backend: Python FastAPI + Node.js
-- Database: PostgreSQL + Redis
-- ML: Python scikit-learn + TensorFlow
+- Backend: Python Flask + Node.js
+- Database: Firebase + Redis
+- ML: Python scikit-learn + PyTorch
 - Real-time: WebSocket + Socket.io
 # Team Structure:
 - Aashish Rajput (Team Lead): Backend Architecture, Database, Integration
